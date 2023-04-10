@@ -145,7 +145,7 @@ start it. You'll need to get the 'root' of the jail for this step. Use
 
 .. codeblock:: shell
 
-# joudriere jail -l
+# poudriere jail -l
 JAILNAME        VERSION                              ARCH      METHOD  TIMESTAMP           PATH
 131armv7        13.2-RC3 1302001 d9bf9d732           arm.armv7 git+ssh 2023-03-18 13:54:23 /vidpool/qemu/jails/jails/131armv7
 #
