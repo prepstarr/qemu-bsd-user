@@ -65,8 +65,8 @@ Setting up Pouduriere
 ====================
 
 Poudriere is the standard way that FreeBSD builds package. It has a great many
-feaetures one won't use when developing bsd-user, unless you are using it to
-build package. There's a number of tutorials on poduriere online, so I won't
+features one won't use when developing bsd-user, unless you are using it to
+build package. There's a number of tutorials on poudriere online, so I won't
 repeat them here. I will show how to build a jail, however
 
 .. code-block:: shell
